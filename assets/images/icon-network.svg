@@ -1,0 +1,42 @@
+<svg width="100" height="100" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Central Locked Computer Icon for cybersecurity -->
+  <rect x="8" y="8" width="8" height="6" fill="#2E86AB" stroke="#39C0ED" stroke-width="0.5" rx="1"/>
+  <rect x="10" y="15" width="4" height="1.5" fill="#2E86AB"/>
+  <!-- Lock Icon -->
+  <rect x="11.25" y="10" width="1.5" height="1.5" rx="0.3" fill="#39C0ED"/>
+  <path d="M12 8.5a1.5 1.5 0 011.5 1.5h-3a1.5 1.5 0 011.5-1.5z" fill="#39C0ED"/>
+  
+  <!-- Network Node Connections -->
+  <circle cx="12" cy="12" r="1.5" fill="#39C0ED"/>
+  <!-- Top Shield Node for security representation -->
+  <polygon points="12,3 13.5,4.5 12,6 10.5,4.5" fill="#39C0ED" />
+  <line x1="12" y1="6" x2="12" y2="10" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Bottom Node -->
+  <circle cx="12" cy="20.5" r="1.5" fill="#39C0ED"/>
+  <line x1="12" y1="14" x2="12" y2="19" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Left Shield Node for security representation -->
+  <polygon points="3.5,12 5,13.5 3.5,15 2,13.5" fill="#39C0ED" />
+  <line x1="5" y1="12" x2="10" y2="12" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Right Shield Node for security representation -->
+  <polygon points="20.5,12 22,13.5 20.5,15 19,13.5" fill="#39C0ED" />
+  <line x1="14" y1="12" x2="19" y2="12" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Top Left Node -->
+  <circle cx="5.5" cy="5.5" r="1.5" fill="#39C0ED"/>
+  <line x1="7" y1="7" x2="10" y2="10" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Top Right Node -->
+  <circle cx="18.5" cy="5.5" r="1.5" fill="#39C0ED"/>
+  <line x1="14" y1="10" x2="17" y2="7" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Bottom Left Node -->
+  <circle cx="5.5" cy="18.5" r="1.5" fill="#39C0ED"/>
+  <line x1="7" y1="17" x2="10" y2="14" stroke="#2E86AB" stroke-width="1.5"/>
+  
+  <!-- Bottom Right Node -->
+  <circle cx="18.5" cy="18.5" r="1.5" fill="#39C0ED"/>
+  <line x1="14" y1="14" x2="17" y2="17" stroke="#2E86AB" stroke-width="1.5"/>
+</svg>
